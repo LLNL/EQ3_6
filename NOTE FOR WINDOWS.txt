@@ -1,0 +1,22 @@
+
+NOTE FOR WINDOWS.txt          Last revised 08/16/2022
+
+EQ3/6, A Code Package for Geochemical Modeling
+Version 8.0a
+Written by Thomas J. Wolery (wolery1@llnl.gov)
+Unclassified/Open Source Distribution
+LLNL-CODE-2013-683958
+
+The intended Windows download file EQ36_80a_Windows.zip exceeded GitHub's limit of 25MB per file. It has been broken down into three parts:
+
+EQ3_6v80a Windows PC.zip: This is the main download file for
+   Windows. 
+
+EQ3_6v8.0a TestLibrary PC.zip: This contains the test case
+   library. The contents are normally put in the Eq3_6v8.0a
+   folder that is created by unzipping the main download file.
+
+EQ3_6v80a Source Code PC.zip: This contains the Windows PC
+   source code. It is not essential to download this unless
+   you are intending to create new executables.
+
